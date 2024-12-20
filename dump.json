@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "одуванчик",
+        "latin_name": "Taráxacum officinále",
+        "is_red_book_flower": "False",
+        "price": "133"
+    },
+    {
+        "id": 2,
+        "name": "Ятрышник",
+        "latin_name": "Órchis máscula",
+        "is_red_book_flower": "True",
+        "price": "140"
+    },
+    {
+        "id": 3,
+        "name": "Желтая кувшинка",
+        "latin_name": "Núphar lútea",
+        "is_red_book_flower": "True",
+        "price": "---"
+    },
+    {
+        "id": 4,
+        "name": "хризантемы",
+        "latin_name": "Chrysánthemum",
+        "is_red_book_flower": "False",
+        "price": "136"
+    },
+    {
+        "id": 5,
+        "name": "Белладонна",
+        "latin_name": "Atropa belladonna",
+        "is_red_book_flower": "True",
+        "price": "310"
+    }
+]
